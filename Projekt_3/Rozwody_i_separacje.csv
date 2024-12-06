@@ -1,0 +1,381 @@
+oid,kod KTS,powiat,powierzchnia,rok,TERYT,Typ powiatu,TERYT województwa,Województwo,Rozwody i separacje|rozwody|ogółem
+7,011212210000,nowosądecki,1549.0,2020,1210,powiat,12,małopolskie,139.0
+2,011212416000,tarnowski,1412.0,2020,1216,powiat,12,małopolskie,175.0
+5,020811301000,gorzowski,1214.0,2020,0801,powiat,08,lubuskie,72.0
+40,023015810000,koniński,1578.0,2020,3010,powiat,30,wielkopolskie,142.0
+13,023016121000,poznański,1900.0,2020,3021,powiat,30,wielkopolskie,427.0
+14,023216309000,koszaliński,1653.0,2020,3209,powiat,32,zachodniopomorskie,71.0
+15,023216403000,drawski,1764.0,2020,3203,powiat,32,zachodniopomorskie,59.0
+16,023216410000,myśliborski,1182.0,2020,3210,powiat,32,zachodniopomorskie,92.0
+17,023216417000,wałecki,1415.0,2020,3217,powiat,32,zachodniopomorskie,66.0
+19,030210302000,dzierżoniowski,479.0,2020,0202,powiat,02,dolnośląskie,170.0
+20,030210324000,ząbkowicki,802.0,2020,0224,powiat,02,dolnośląskie,62.0
+21,040410818000,włocławski,1474.0,2020,0418,powiat,04,kujawsko-pomorskie,141.0
+52,040410603000,bydgoski,1394.0,2020,0403,powiat,04,kujawsko-pomorskie,260.0
+54,051011963000,Skierniewice,35.0,2020,1063,miasto na prawach powiatu,10,łódzkie,77.0
+56,060610961000,Biała Podlaska,49.0,2020,0661,miasto na prawach powiatu,06,lubelskie,91.0
+60,012414571000,Piekary Śląskie,40.0,2020,2471,miasto na prawach powiatu,24,śląskie,71.0
+64,011216911000,nowotarski,1474.0,2020,1211,powiat,12,małopolskie,165.0
+69,062013702000,białostocki,2975.0,2020,2002,powiat,20,podlaskie,146.0
+68,062013807000,łomżyński,1355.0,2020,2007,powiat,20,podlaskie,44.0
+73,011212006000,krakowski,1231.0,2020,1206,powiat,12,małopolskie,246.0
+87,011212463000,Tarnów,72.0,2020,1263,miasto na prawach powiatu,12,małopolskie,172.0
+123,020811361000,Gorzów Wielkopolski,86.0,2020,0861,miasto na prawach powiatu,08,lubuskie,131.0
+97,012414604000,częstochowski,1521.0,2020,2404,powiat,24,śląskie,140.0
+151,023015963000,Leszno,32.0,2020,3063,miasto na prawach powiatu,30,wielkopolskie,114.0
+153,023016019000,pilski,1268.0,2020,3019,powiat,30,wielkopolskie,169.0
+299,060611064000,Zamość,30.0,2020,0664,miasto na prawach powiatu,06,lubelskie,126.0
+321,061813462000,Przemyśl,46.0,2020,1862,miasto na prawach powiatu,18,podkarpackie,86.0
+210,031613209000,opolski,1534.0,2020,1609,powiat,16,opolskie,115.0
+234,042214163000,Słupsk,43.0,2020,2263,miasto na prawach powiatu,22,pomorskie,176.0
+242,060611109000,lubelski,1680.0,2020,0609,powiat,06,lubelskie,185.0
+1,011212303000,chrzanowski,370.0,2020,1203,powiat,12,małopolskie,187.0
+102,012414766000,Gliwice,134.0,2020,2466,miasto na prawach powiatu,24,śląskie,314.0
+103,012414778000,Zabrze,80.0,2020,2478,miasto na prawach powiatu,24,śląskie,275.0
+71,012414863000,Chorzów,33.0,2020,2463,miasto na prawach powiatu,24,śląskie,147.0
+104,012414869000,Katowice,165.0,2020,2469,miasto na prawach powiatu,24,śląskie,412.0
+61,012414870000,Mysłowice,66.0,2020,2470,miasto na prawach powiatu,24,śląskie,139.0
+62,012414872000,Ruda Śląska,78.0,2020,2472,miasto na prawach powiatu,24,śląskie,207.0
+105,012414874000,Siemianowice Śląskie,25.0,2020,2474,miasto na prawach powiatu,24,śląskie,97.0
+106,012414876000,Świętochłowice,13.0,2020,2476,miasto na prawach powiatu,24,śląskie,54.0
+110,012414967000,Jastrzębie-Zdrój,85.0,2020,2467,miasto na prawach powiatu,24,śląskie,96.0
+111,012414973000,Rybnik,148.0,2020,2473,miasto na prawach powiatu,24,śląskie,127.0
+316,061813361000,Krosno,44.0,2020,1861,miasto na prawach powiatu,18,podkarpackie,77.0
+112,012414979000,Żory,65.0,2020,2479,miasto na prawach powiatu,24,śląskie,64.0
+116,012415075000,Sosnowiec,91.0,2020,2475,miasto na prawach powiatu,24,śląskie,308.0
+117,012415108000,mikołowski,233.0,2020,2408,powiat,24,śląskie,125.0
+59,012415177000,Tychy,82.0,2020,2477,miasto na prawach powiatu,24,śląskie,184.0
+175,023216663000,Świnoujście,202.0,2020,3263,miasto na prawach powiatu,32,zachodniopomorskie,75.0
+333,061813664000,Tarnobrzeg,85.0,2020,1864,miasto na prawach powiatu,18,podkarpackie,66.0
+42,030210422000,wołowski,675.0,2020,0222,powiat,02,dolnośląskie,81.0
+44,030210564000,Wrocław,293.0,2020,0264,miasto na prawach powiatu,02,dolnośląskie,1418.0
+45,040410661000,Bydgoszcz,176.0,2020,0461,miasto na prawach powiatu,04,kujawsko-pomorskie,767.0
+213,040410663000,Toruń,116.0,2020,0463,miasto na prawach powiatu,04,kujawsko-pomorskie,260.0
+46,040410704000,chełmiński,527.0,2020,0404,powiat,04,kujawsko-pomorskie,44.0
+374,071427062000,Płock,88.0,2020,1462,miasto na prawach powiatu,14,mazowieckie,204.0
+72,011212001000,bocheński,649.0,2020,1201,powiat,12,małopolskie,74.0
+74,011212008000,miechowski,676.0,2020,1208,powiat,12,małopolskie,51.0
+75,011212009000,myślenicki,673.0,2020,1209,powiat,12,małopolskie,110.0
+76,011212014000,proszowicki,415.0,2020,1214,powiat,12,małopolskie,37.0
+77,011212019000,wielicki,411.0,2020,1219,powiat,12,małopolskie,127.0
+78,011212161000,Kraków,327.0,2020,1261,miasto na prawach powiatu,12,małopolskie,1399.0
+79,011212205000,gorlicki,966.0,2020,1205,powiat,12,małopolskie,98.0
+80,011212207000,limanowski,951.0,2020,1207,powiat,12,małopolskie,82.0
+81,011212262000,Nowy Sącz,58.0,2020,1262,miasto na prawach powiatu,12,małopolskie,112.0
+82,011212312000,olkuski,618.0,2020,1212,powiat,12,małopolskie,120.0
+83,011212313000,oświęcimski,406.0,2020,1213,powiat,12,małopolskie,196.0
+84,011212318000,wadowicki,646.0,2020,1218,powiat,12,małopolskie,104.0
+85,011212402000,brzeski,591.0,2020,1202,powiat,12,małopolskie,73.0
+86,011212404000,dąbrowski,530.0,2020,1204,powiat,12,małopolskie,37.0
+67,040410801000,aleksandrowski,475.0,2020,0401,powiat,04,kujawsko-pomorskie,104.0
+88,011216915000,suski,686.0,2020,1215,powiat,12,małopolskie,43.0
+89,011216917000,tatrzański,472.0,2020,1217,powiat,12,małopolskie,86.0
+47,042214010000,nowodworski,674.0,2020,2210,powiat,22,pomorskie,43.0
+90,012414402000,bielski,459.0,2020,2402,powiat,24,śląskie,224.0
+91,012414403000,cieszyński,730.0,2020,2403,powiat,24,śląskie,251.0
+92,012414417000,żywiecki,1040.0,2020,2417,powiat,24,śląskie,194.0
+93,012414461000,Bielsko-Biała,125.0,2020,2461,miasto na prawach powiatu,24,śląskie,268.0
+94,012414507000,lubliniecki,822.0,2020,2407,powiat,24,śląskie,93.0
+95,012414513000,tarnogórski,644.0,2020,2413,powiat,24,śląskie,214.0
+96,012414562000,Bytom,69.0,2020,2462,miasto na prawach powiatu,24,śląskie,218.0
+98,012414606000,kłobucki,889.0,2020,2406,powiat,24,śląskie,92.0
+99,012414609000,myszkowski,479.0,2020,2409,powiat,24,śląskie,101.0
+100,012414664000,Częstochowa,160.0,2020,2464,miasto na prawach powiatu,24,śląskie,339.0
+101,012414705000,gliwicki,664.0,2020,2405,powiat,24,śląskie,158.0
+107,012414911000,raciborski,544.0,2020,2411,powiat,24,śląskie,71.0
+108,012414912000,rybnicki,224.0,2020,2412,powiat,24,śląskie,65.0
+109,012414915000,wodzisławski,287.0,2020,2415,powiat,24,śląskie,133.0
+113,012415001000,będziński,364.0,2020,2401,powiat,24,śląskie,209.0
+114,012415016000,zawierciański,1003.0,2020,2416,powiat,24,śląskie,154.0
+115,012415065000,Dąbrowa Górnicza,189.0,2020,2465,miasto na prawach powiatu,24,śląskie,199.0
+3,012415068000,Jaworzno,153.0,2020,2468,miasto na prawach powiatu,24,śląskie,171.0
+118,012415110000,pszczyński,471.0,2020,2410,powiat,24,śląskie,119.0
+63,012415114000,bieruńsko-lędziński,158.0,2020,2414,powiat,24,śląskie,81.0
+119,020811303000,międzyrzecki,1388.0,2020,0803,powiat,08,lubuskie,47.0
+120,020811305000,słubicki,999.0,2020,0805,powiat,08,lubuskie,58.0
+121,020811306000,strzelecko-drezdenecki,1248.0,2020,0806,powiat,08,lubuskie,42.0
+122,020811307000,sulęciński,1178.0,2020,0807,powiat,08,lubuskie,30.0
+124,020811402000,krośnieński,1391.0,2020,0802,powiat,08,lubuskie,52.0
+125,020811404000,nowosolski,771.0,2020,0804,powiat,08,lubuskie,107.0
+126,020811408000,świebodziński,937.0,2020,0808,powiat,08,lubuskie,67.0
+9,020811409000,zielonogórski,1350.0,2020,0809,powiat,08,lubuskie,93.0
+127,020811410000,żagański,1132.0,2020,0810,powiat,08,lubuskie,85.0
+128,020811411000,żarski,1393.0,2020,0811,powiat,08,lubuskie,127.0
+129,020811412000,wschowski,624.0,2020,0812,powiat,08,lubuskie,41.0
+10,020811462000,Zielona Góra,277.0,2020,0862,miasto na prawach powiatu,08,lubuskie,193.0
+130,023015706000,jarociński,587.0,2020,3006,powiat,30,wielkopolskie,103.0
+131,023015707000,kaliski,1160.0,2020,3007,powiat,30,wielkopolskie,103.0
+132,023015708000,kępiński,608.0,2020,3008,powiat,30,wielkopolskie,67.0
+48,042214361000,Gdańsk,262.0,2020,2261,miasto na prawach powiatu,22,pomorskie,620.0
+133,023015712000,krotoszyński,714.0,2020,3012,powiat,30,wielkopolskie,105.0
+240,042214362000,Gdynia,135.0,2020,2262,miasto na prawach powiatu,22,pomorskie,324.0
+134,023015717000,ostrowski,1160.0,2020,3017,powiat,30,wielkopolskie,228.0
+135,023015718000,ostrzeszowski,773.0,2020,3018,powiat,30,wielkopolskie,68.0
+49,042214364000,Sopot,17.0,2020,2264,miasto na prawach powiatu,22,pomorskie,37.0
+41,042217202000,chojnicki,1364.0,2020,2202,powiat,22,pomorskie,153.0
+136,023015720000,pleszewski,713.0,2020,3020,powiat,30,wielkopolskie,67.0
+70,023015761000,Kalisz,69.0,2020,3061,miasto na prawach powiatu,30,wielkopolskie,164.0
+137,023015803000,gnieźnieński,1255.0,2020,3003,powiat,30,wielkopolskie,138.0
+138,023015809000,kolski,1011.0,2020,3009,powiat,30,wielkopolskie,114.0
+139,023015823000,słupecki,838.0,2020,3023,powiat,30,wielkopolskie,53.0
+140,023015827000,turecki,929.0,2020,3027,powiat,30,wielkopolskie,102.0
+141,023015830000,wrzesiński,704.0,2020,3030,powiat,30,wielkopolskie,92.0
+142,023015862000,Konin,82.0,2020,3062,miasto na prawach powiatu,30,wielkopolskie,109.0
+143,023015904000,gostyński,810.0,2020,3004,powiat,30,wielkopolskie,87.0
+144,023015905000,grodziski,642.0,2020,3005,powiat,30,wielkopolskie,45.0
+145,023015911000,kościański,722.0,2020,3011,powiat,30,wielkopolskie,96.0
+146,023015913000,leszczyński,806.0,2020,3013,powiat,30,wielkopolskie,56.0
+147,023015914000,międzychodzki,736.0,2020,3014,powiat,30,wielkopolskie,29.0
+148,023015915000,nowotomyski,1014.0,2020,3015,powiat,30,wielkopolskie,70.0
+149,023015922000,rawicki,554.0,2020,3022,powiat,30,wielkopolskie,86.0
+50,042815518000,gołdapski,772.0,2020,2818,powiat,28,warmińsko-mazurskie,35.0
+150,023015929000,wolsztyński,680.0,2020,3029,powiat,30,wielkopolskie,44.0
+152,023016001000,chodzieski,685.0,2020,3001,powiat,30,wielkopolskie,58.0
+4,023016002000,czarnkowsko-trzcianecki,1806.0,2020,3002,powiat,30,wielkopolskie,108.0
+51,042815519000,węgorzewski,693.0,2020,2819,powiat,28,warmińsko-mazurskie,23.0
+154,023016028000,wągrowiecki,1040.0,2020,3028,powiat,30,wielkopolskie,98.0
+155,023016031000,złotowski,1660.0,2020,3031,powiat,30,wielkopolskie,78.0
+156,023016116000,obornicki,711.0,2020,3016,powiat,30,wielkopolskie,66.0
+260,042815662000,Olsztyn,88.0,2020,2862,miasto na prawach powiatu,28,warmińsko-mazurskie,282.0
+157,023016124000,szamotulski,1119.0,2020,3024,powiat,30,wielkopolskie,87.0
+158,023016125000,średzki,624.0,2020,3025,powiat,30,wielkopolskie,60.0
+159,023016126000,śremski,574.0,2020,3026,powiat,30,wielkopolskie,72.0
+65,023016264000,Poznań,262.0,2020,3064,miasto na prawach powiatu,30,wielkopolskie,603.0
+160,023216301000,białogardzki,845.0,2020,3201,powiat,32,zachodniopomorskie,56.0
+161,023216308000,kołobrzeski,725.0,2020,3208,powiat,32,zachodniopomorskie,99.0
+162,023216313000,sławieński,1043.0,2020,3213,powiat,32,zachodniopomorskie,59.0
+163,023216361000,Koszalin,98.0,2020,3261,miasto na prawach powiatu,32,zachodniopomorskie,161.0
+164,023216402000,choszczeński,1328.0,2020,3202,powiat,32,zachodniopomorskie,74.0
+165,023216412000,pyrzycki,726.0,2020,3212,powiat,32,zachodniopomorskie,48.0
+166,023216415000,szczecinecki,1766.0,2020,3215,powiat,32,zachodniopomorskie,75.0
+167,023216416000,świdwiński,1093.0,2020,3216,powiat,32,zachodniopomorskie,57.0
+168,023216418000,łobeski,1065.0,2020,3218,powiat,32,zachodniopomorskie,58.0
+169,023216562000,Szczecin,301.0,2020,3262,miasto na prawach powiatu,32,zachodniopomorskie,608.0
+170,023216604000,goleniowski,1616.0,2020,3204,powiat,32,zachodniopomorskie,130.0
+171,023216605000,gryficki,1021.0,2020,3205,powiat,32,zachodniopomorskie,73.0
+172,023216606000,gryfiński,1870.0,2020,3206,powiat,32,zachodniopomorskie,124.0
+173,023216607000,kamieński,1007.0,2020,3207,powiat,32,zachodniopomorskie,69.0
+174,023216611000,policki,665.0,2020,3211,powiat,32,zachodniopomorskie,143.0
+6,023216614000,stargardzki,1520.0,2020,3214,powiat,32,zachodniopomorskie,188.0
+176,030210101000,bolesławiecki,1304.0,2020,0201,powiat,02,dolnośląskie,148.0
+177,030210105000,jaworski,582.0,2020,0205,powiat,02,dolnośląskie,86.0
+178,030210106000,jeleniogórski,627.0,2020,0206,powiat,02,dolnośląskie,87.0
+179,030210107000,kamiennogórski,396.0,2020,0207,powiat,02,dolnośląskie,60.0
+180,030210110000,lubański,428.0,2020,0210,powiat,02,dolnośląskie,76.0
+53,051011819000,zduńskowolski,369.0,2020,1019,powiat,10,łódzkie,98.0
+181,030210112000,lwówecki,710.0,2020,0212,powiat,02,dolnośląskie,80.0
+182,030210125000,zgorzelecki,839.0,2020,0225,powiat,02,dolnośląskie,153.0
+183,030210126000,złotoryjski,576.0,2020,0226,powiat,02,dolnośląskie,59.0
+184,030210161000,Jelenia Góra,109.0,2020,0261,miasto na prawach powiatu,02,dolnośląskie,135.0
+185,030210203000,głogowski,443.0,2020,0203,powiat,02,dolnośląskie,131.0
+186,030210204000,górowski,738.0,2020,0204,powiat,02,dolnośląskie,45.0
+187,030210209000,legnicki,744.0,2020,0209,powiat,02,dolnośląskie,73.0
+188,030210211000,lubiński,712.0,2020,0211,powiat,02,dolnośląskie,152.0
+189,030210216000,polkowicki,779.0,2020,0216,powiat,02,dolnośląskie,99.0
+190,030210262000,Legnica,56.0,2020,0262,miasto na prawach powiatu,02,dolnośląskie,186.0
+191,030210308000,kłodzki,1642.0,2020,0208,powiat,02,dolnośląskie,227.0
+192,030210319000,świdnicki,741.0,2020,0219,powiat,02,dolnośląskie,237.0
+193,030210321000,wałbrzyski,430.0,2020,0221,powiat,02,dolnośląskie,76.0
+194,030210365000,Wałbrzych,85.0,2020,0265,miasto na prawach powiatu,02,dolnośląskie,191.0
+195,030210413000,milicki,715.0,2020,0213,powiat,02,dolnośląskie,54.0
+196,030210414000,oleśnicki,1049.0,2020,0214,powiat,02,dolnośląskie,195.0
+197,030210415000,oławski,524.0,2020,0215,powiat,02,dolnośląskie,157.0
+198,030210417000,strzeliński,622.0,2020,0217,powiat,02,dolnośląskie,65.0
+199,030210418000,średzki,704.0,2020,0218,powiat,02,dolnośląskie,89.0
+200,030210420000,trzebnicki,1025.0,2020,0220,powiat,02,dolnośląskie,135.0
+43,030210423000,wrocławski,1118.0,2020,0223,powiat,02,dolnośląskie,268.0
+201,031613101000,brzeski,876.0,2020,1601,powiat,16,opolskie,120.0
+202,031613102000,głubczycki,673.0,2020,1602,powiat,16,opolskie,37.0
+203,031613106000,namysłowski,748.0,2020,1606,powiat,16,opolskie,59.0
+204,031613107000,nyski,1224.0,2020,1607,powiat,16,opolskie,142.0
+205,031613110000,prudnicki,572.0,2020,1610,powiat,16,opolskie,48.0
+206,031613203000,kędzierzyńsko-kozielski,625.0,2020,1603,powiat,16,opolskie,132.0
+207,031613204000,kluczborski,852.0,2020,1604,powiat,16,opolskie,69.0
+208,031613205000,krapkowicki,442.0,2020,1605,powiat,16,opolskie,64.0
+55,052615210000,skarżyski,395.0,2020,2610,powiat,26,świętokrzyskie,85.0
+209,031613208000,oleski,973.0,2020,1608,powiat,16,opolskie,52.0
+31,060611020000,zamojski,1870.0,2020,0620,powiat,06,lubelskie,131.0
+298,060611062000,Chełm,35.0,2020,0662,miasto na prawach powiatu,06,lubelskie,94.0
+211,031613211000,strzelecki,744.0,2020,1611,powiat,16,opolskie,81.0
+212,031613261000,Opole,149.0,2020,1661,miasto na prawach powiatu,16,opolskie,170.0
+8,040410615000,toruński,1230.0,2020,0415,powiat,04,kujawsko-pomorskie,131.0
+214,040410702000,brodnicki,1040.0,2020,0402,powiat,04,kujawsko-pomorskie,78.0
+215,040410705000,golubsko-dobrzyński,613.0,2020,0405,powiat,04,kujawsko-pomorskie,39.0
+57,062013761000,Białystok,102.0,2020,2061,miasto na prawach powiatu,20,podlaskie,411.0
+216,040410706000,grudziądzki,728.0,2020,0406,powiat,04,kujawsko-pomorskie,22.0
+58,062013963000,Suwałki,66.0,2020,2063,miasto na prawach powiatu,20,podlaskie,145.0
+217,040410712000,rypiński,586.0,2020,0412,powiat,04,kujawsko-pomorskie,64.0
+218,040410717000,wąbrzeski,502.0,2020,0417,powiat,04,kujawsko-pomorskie,30.0
+66,040410762000,Grudziądz,58.0,2020,0462,miasto na prawach powiatu,04,kujawsko-pomorskie,123.0
+219,040410808000,lipnowski,1016.0,2020,0408,powiat,04,kujawsko-pomorskie,102.0
+220,040410811000,radziejowski,607.0,2020,0411,powiat,04,kujawsko-pomorskie,54.0
+221,040410864000,Włocławek,84.0,2020,0464,miasto na prawach powiatu,04,kujawsko-pomorskie,244.0
+222,040416707000,inowrocławski,1225.0,2020,0407,powiat,04,kujawsko-pomorskie,283.0
+223,040416709000,mogileński,675.0,2020,0409,powiat,04,kujawsko-pomorskie,80.0
+224,040416710000,nakielski,1120.0,2020,0410,powiat,04,kujawsko-pomorskie,153.0
+225,040416719000,żniński,985.0,2020,0419,powiat,04,kujawsko-pomorskie,121.0
+226,040416813000,sępoleński,791.0,2020,0413,powiat,04,kujawsko-pomorskie,70.0
+227,040416814000,świecki,1474.0,2020,0414,powiat,04,kujawsko-pomorskie,171.0
+228,040416816000,tucholski,1075.0,2020,0416,powiat,04,kujawsko-pomorskie,75.0
+229,042214004000,gdański,794.0,2020,2204,powiat,22,pomorskie,138.0
+230,042214005000,kartuski,1121.0,2020,2205,powiat,22,pomorskie,146.0
+231,042214011000,pucki,581.0,2020,2211,powiat,22,pomorskie,92.0
+232,042214015000,wejherowski,1285.0,2020,2215,powiat,22,pomorskie,231.0
+22,042214101000,bytowski,2192.0,2020,2201,powiat,22,pomorskie,106.0
+233,042214108000,lęborski,708.0,2020,2208,powiat,22,pomorskie,111.0
+23,042214112000,słupski,2304.0,2020,2212,powiat,22,pomorskie,142.0
+235,042214207000,kwidzyński,835.0,2020,2207,powiat,22,pomorskie,93.0
+236,042214209000,malborski,494.0,2020,2209,powiat,22,pomorskie,75.0
+237,042214213000,starogardzki,1345.0,2020,2213,powiat,22,pomorskie,134.0
+238,042214214000,tczewski,697.0,2020,2214,powiat,22,pomorskie,100.0
+239,042214216000,sztumski,731.0,2020,2216,powiat,22,pomorskie,47.0
+241,042217203000,człuchowski,1575.0,2020,2203,powiat,22,pomorskie,79.0
+243,042217206000,kościerski,1166.0,2020,2206,powiat,22,pomorskie,77.0
+244,042815402000,braniewski,1202.0,2020,2802,powiat,28,warmińsko-mazurskie,56.0
+245,042815403000,działdowski,954.0,2020,2803,powiat,28,warmińsko-mazurskie,97.0
+246,042815404000,elbląski,1416.0,2020,2804,powiat,28,warmińsko-mazurskie,80.0
+247,042815407000,iławski,1385.0,2020,2807,powiat,28,warmińsko-mazurskie,126.0
+248,042815412000,nowomiejski,694.0,2020,2812,powiat,28,warmińsko-mazurskie,54.0
+24,042815415000,ostródzki,1766.0,2020,2815,powiat,28,warmińsko-mazurskie,172.0
+249,042815461000,Elbląg,80.0,2020,2861,miasto na prawach powiatu,28,warmińsko-mazurskie,169.0
+250,042815505000,ełcki,1113.0,2020,2805,powiat,28,warmińsko-mazurskie,142.0
+251,042815506000,giżycki,1120.0,2020,2806,powiat,28,warmińsko-mazurskie,74.0
+252,042815513000,olecki,874.0,2020,2813,powiat,28,warmińsko-mazurskie,58.0
+253,042815516000,piski,1775.0,2020,2816,powiat,28,warmińsko-mazurskie,56.0
+254,042815601000,bartoszycki,1307.0,2020,2801,powiat,28,warmińsko-mazurskie,61.0
+255,042815608000,kętrzyński,1213.0,2020,2808,powiat,28,warmińsko-mazurskie,78.0
+256,042815609000,lidzbarski,925.0,2020,2809,powiat,28,warmińsko-mazurskie,27.0
+257,042815610000,mrągowski,1065.0,2020,2810,powiat,28,warmińsko-mazurskie,62.0
+258,042815611000,nidzicki,961.0,2020,2811,powiat,28,warmińsko-mazurskie,33.0
+25,042815614000,olsztyński,2837.0,2020,2814,powiat,28,warmińsko-mazurskie,134.0
+259,042815617000,szczycieński,1933.0,2020,2817,powiat,28,warmińsko-mazurskie,65.0
+261,051011506000,łódzki wschodni,500.0,2020,1006,powiat,10,łódzkie,88.0
+262,051011508000,pabianicki,492.0,2020,1008,powiat,10,łódzkie,166.0
+263,051011520000,zgierski,855.0,2020,1020,powiat,10,łódzkie,237.0
+264,051011521000,brzeziński,359.0,2020,1021,powiat,10,łódzkie,40.0
+265,051011661000,Łódź,293.0,2020,1061,miasto na prawach powiatu,10,łódzkie,1013.0
+266,051011701000,bełchatowski,968.0,2020,1001,powiat,10,łódzkie,120.0
+267,051011707000,opoczyński,1040.0,2020,1007,powiat,10,łódzkie,56.0
+26,051011710000,piotrkowski,1429.0,2020,1010,powiat,10,łódzkie,76.0
+27,051011712000,radomszczański,1443.0,2020,1012,powiat,10,łódzkie,104.0
+268,051011716000,tomaszowski,1025.0,2020,1016,powiat,10,łódzkie,122.0
+269,051011762000,Piotrków Trybunalski,67.0,2020,1062,miasto na prawach powiatu,10,łódzkie,95.0
+270,051011803000,łaski,618.0,2020,1003,powiat,10,łódzkie,69.0
+271,051011809000,pajęczański,804.0,2020,1009,powiat,10,łódzkie,68.0
+272,051011811000,poddębicki,881.0,2020,1011,powiat,10,łódzkie,49.0
+273,051011814000,sieradzki,1491.0,2020,1014,powiat,10,łódzkie,185.0
+274,051011817000,wieluński,926.0,2020,1017,powiat,10,łódzkie,91.0
+275,051011818000,wieruszowski,577.0,2020,1018,powiat,10,łódzkie,65.0
+276,051011902000,kutnowski,887.0,2020,1002,powiat,10,łódzkie,105.0
+277,051011904000,łęczycki,773.0,2020,1004,powiat,10,łódzkie,54.0
+278,051011905000,łowicki,988.0,2020,1005,powiat,10,łódzkie,74.0
+279,051011913000,rawski,646.0,2020,1013,powiat,10,łódzkie,41.0
+280,051011915000,skierniewicki,753.0,2020,1015,powiat,10,łódzkie,30.0
+18,052615204000,kielecki,2246.0,2020,2604,powiat,26,świętokrzyskie,189.0
+281,052615205000,konecki,1139.0,2020,2605,powiat,26,świętokrzyskie,90.0
+282,052615207000,ostrowiecki,617.0,2020,2607,powiat,26,świętokrzyskie,131.0
+283,052615211000,starachowicki,523.0,2020,2611,powiat,26,świętokrzyskie,105.0
+284,052615261000,Kielce,110.0,2020,2661,miasto na prawach powiatu,26,świętokrzyskie,274.0
+285,052615301000,buski,968.0,2020,2601,powiat,26,świętokrzyskie,83.0
+286,052615302000,jędrzejowski,1257.0,2020,2602,powiat,26,świętokrzyskie,93.0
+287,052615303000,kazimierski,422.0,2020,2603,powiat,26,świętokrzyskie,23.0
+346,071412865000,Warszawa,517.0,2020,1465,"miasto stołeczne, na prawach powiatu",14,mazowieckie,3267.0
+288,052615306000,opatowski,911.0,2020,2606,powiat,26,świętokrzyskie,53.0
+289,052615308000,pińczowski,613.0,2020,2608,powiat,26,świętokrzyskie,47.0
+290,052615309000,sandomierski,676.0,2020,2609,powiat,26,świętokrzyskie,88.0
+347,071412908000,legionowski,391.0,2020,1408,powiat,14,mazowieckie,142.0
+291,052615312000,staszowski,925.0,2020,2612,powiat,26,świętokrzyskie,67.0
+11,071427164000,Siedlce,32.0,2020,1464,miasto na prawach powiatu,14,mazowieckie,155.0
+292,052615313000,włoszczowski,908.0,2020,2613,powiat,26,świętokrzyskie,39.0
+32,060610901000,bialski,2754.0,2020,0601,powiat,06,lubelskie,113.0
+12,071427306000,grójecki,1268.0,2020,1406,powiat,14,mazowieckie,136.0
+293,060610913000,parczewski,952.0,2020,0613,powiat,06,lubelskie,49.0
+294,060610915000,radzyński,965.0,2020,0615,powiat,06,lubelskie,59.0
+295,060610919000,włodawski,1256.0,2020,0619,powiat,06,lubelskie,43.0
+28,060611002000,biłgorajski,1681.0,2020,0602,powiat,06,lubelskie,121.0
+29,060611003000,chełmski,1886.0,2020,0603,powiat,06,lubelskie,84.0
+30,060611004000,hrubieszowski,1268.0,2020,0604,powiat,06,lubelskie,77.0
+296,060611006000,krasnostawski,1032.0,2020,0606,powiat,06,lubelskie,69.0
+297,060611018000,tomaszowski,1489.0,2020,0618,powiat,06,lubelskie,108.0
+300,060611108000,lubartowski,1289.0,2020,0608,powiat,06,lubelskie,81.0
+301,060611110000,łęczyński,637.0,2020,0610,powiat,06,lubelskie,72.0
+302,060611117000,świdnicki,468.0,2020,0617,powiat,06,lubelskie,78.0
+303,060611163000,Lublin,148.0,2020,0663,miasto na prawach powiatu,06,lubelskie,560.0
+304,060611205000,janowski,876.0,2020,0605,powiat,06,lubelskie,44.0
+305,060611207000,kraśnicki,1005.0,2020,0607,powiat,06,lubelskie,118.0
+306,060611211000,łukowski,1394.0,2020,0611,powiat,06,lubelskie,85.0
+307,060611212000,opolski,810.0,2020,0612,powiat,06,lubelskie,68.0
+308,060611214000,puławski,934.0,2020,0614,powiat,06,lubelskie,145.0
+309,060611216000,rycki,615.0,2020,0616,powiat,06,lubelskie,61.0
+310,061813301000,bieszczadzki,1139.0,2020,1801,powiat,18,podkarpackie,17.0
+311,061813302000,brzozowski,539.0,2020,1802,powiat,18,podkarpackie,43.0
+312,061813305000,jasielski,831.0,2020,1805,powiat,18,podkarpackie,96.0
+313,061813307000,krośnieński,993.0,2020,1807,powiat,18,podkarpackie,102.0
+314,061813317000,sanocki,1156.0,2020,1817,powiat,18,podkarpackie,102.0
+315,061813321000,leski,835.0,2020,1821,powiat,18,podkarpackie,19.0
+317,061813404000,jarosławski,1029.0,2020,1804,powiat,18,podkarpackie,115.0
+318,061813409000,lubaczowski,1308.0,2020,1809,powiat,18,podkarpackie,45.0
+319,061813413000,przemyski,1211.0,2020,1813,powiat,18,podkarpackie,69.0
+320,061813414000,przeworski,698.0,2020,1814,powiat,18,podkarpackie,67.0
+322,061813506000,kolbuszowski,774.0,2020,1806,powiat,18,podkarpackie,43.0
+323,061813510000,łańcucki,452.0,2020,1810,powiat,18,podkarpackie,61.0
+324,061813515000,ropczycko-sędziszowski,548.0,2020,1815,powiat,18,podkarpackie,48.0
+33,061813516000,rzeszowski,1147.0,2020,1816,powiat,18,podkarpackie,127.0
+325,061813519000,strzyżowski,504.0,2020,1819,powiat,18,podkarpackie,42.0
+326,061813563000,Rzeszów,126.0,2020,1863,miasto na prawach powiatu,18,podkarpackie,260.0
+327,061813603000,dębicki,777.0,2020,1803,powiat,18,podkarpackie,110.0
+328,061813608000,leżajski,584.0,2020,1808,powiat,18,podkarpackie,55.0
+329,061813611000,mielecki,881.0,2020,1811,powiat,18,podkarpackie,145.0
+330,061813612000,niżański,786.0,2020,1812,powiat,18,podkarpackie,74.0
+331,061813618000,stalowowolski,832.0,2020,1818,powiat,18,podkarpackie,115.0
+332,061813620000,tarnobrzeski,521.0,2020,1820,powiat,18,podkarpackie,40.0
+334,062013711000,sokólski,2055.0,2020,2011,powiat,20,podlaskie,43.0
+335,062013803000,bielski,1385.0,2020,2003,powiat,20,podlaskie,43.0
+336,062013805000,hajnowski,1624.0,2020,2005,powiat,20,podlaskie,40.0
+337,062013806000,kolneński,940.0,2020,2006,powiat,20,podlaskie,45.0
+338,062013810000,siemiatycki,1459.0,2020,2010,powiat,20,podlaskie,41.0
+339,062013813000,wysokomazowiecki,1289.0,2020,2013,powiat,20,podlaskie,74.0
+340,062013814000,zambrowski,733.0,2020,2014,powiat,20,podlaskie,52.0
+34,062013862000,Łomża,33.0,2020,2062,miasto na prawach powiatu,20,podlaskie,104.0
+341,062013901000,augustowski,1659.0,2020,2001,powiat,20,podlaskie,66.0
+342,062013904000,grajewski,968.0,2020,2004,powiat,20,podlaskie,56.0
+343,062013908000,moniecki,1382.0,2020,2008,powiat,20,podlaskie,29.0
+344,062013909000,sejneński,855.0,2020,2009,powiat,20,podlaskie,21.0
+345,062013912000,suwalski,1307.0,2020,2012,powiat,20,podlaskie,40.0
+348,071412912000,miński,1164.0,2020,1412,powiat,14,mazowieckie,256.0
+349,071412917000,otwocki,616.0,2020,1417,powiat,14,mazowieckie,146.0
+350,071412934000,wołomiński,954.0,2020,1434,powiat,14,mazowieckie,303.0
+351,071413005000,grodziski,367.0,2020,1405,powiat,14,mazowieckie,152.0
+352,071413014000,nowodworski,695.0,2020,1414,powiat,14,mazowieckie,116.0
+353,071413018000,piaseczyński,621.0,2020,1418,powiat,14,mazowieckie,304.0
+354,071413021000,pruszkowski,246.0,2020,1421,powiat,14,mazowieckie,268.0
+355,071413032000,warszawski zachodni,534.0,2020,1432,powiat,14,mazowieckie,156.0
+356,071422502000,ciechanowski,1060.0,2020,1402,powiat,14,mazowieckie,97.0
+357,071422513000,mławski,1182.0,2020,1413,powiat,14,mazowieckie,77.0
+358,071422520000,płoński,1380.0,2020,1420,powiat,14,mazowieckie,115.0
+359,071422524000,pułtuski,827.0,2020,1424,powiat,14,mazowieckie,77.0
+360,071422537000,żuromiński,807.0,2020,1437,powiat,14,mazowieckie,36.0
+361,071422611000,makowski,1065.0,2020,1411,powiat,14,mazowieckie,57.0
+35,071422615000,ostrołęcki,2093.0,2020,1415,powiat,14,mazowieckie,83.0
+36,071422616000,ostrowski,1218.0,2020,1416,powiat,14,mazowieckie,88.0
+362,071422622000,przasnyski,1219.0,2020,1422,powiat,14,mazowieckie,60.0
+363,071422635000,wyszkowski,876.0,2020,1435,powiat,14,mazowieckie,99.0
+364,071422661000,Ostrołęka,33.0,2020,1461,miasto na prawach powiatu,14,mazowieckie,120.0
+365,071422701000,białobrzeski,639.0,2020,1401,powiat,14,mazowieckie,45.0
+366,071422707000,kozienicki,916.0,2020,1407,powiat,14,mazowieckie,69.0
+367,071422709000,lipski,740.0,2020,1409,powiat,14,mazowieckie,29.0
+368,071422723000,przysuski,801.0,2020,1423,powiat,14,mazowieckie,36.0
+37,071422725000,radomski,1530.0,2020,1425,powiat,14,mazowieckie,171.0
+369,071422730000,szydłowiecki,452.0,2020,1430,powiat,14,mazowieckie,59.0
+370,071422736000,zwoleński,573.0,2020,1436,powiat,14,mazowieckie,38.0
+371,071422763000,Radom,112.0,2020,1463,miasto na prawach powiatu,14,mazowieckie,313.0
+372,071427004000,gostyniński,615.0,2020,1404,powiat,14,mazowieckie,69.0
+38,071427019000,płocki,1796.0,2020,1419,powiat,14,mazowieckie,127.0
+373,071427027000,sierpecki,852.0,2020,1427,powiat,14,mazowieckie,52.0
+375,071427103000,garwoliński,1285.0,2020,1403,powiat,14,mazowieckie,136.0
+376,071427110000,łosicki,772.0,2020,1410,powiat,14,mazowieckie,26.0
+39,071427126000,siedlecki,1603.0,2020,1426,powiat,14,mazowieckie,83.0
+377,071427129000,sokołowski,1131.0,2020,1429,powiat,14,mazowieckie,49.0
+378,071427133000,węgrowski,1221.0,2020,1433,powiat,14,mazowieckie,60.0
+379,071427328000,sochaczewski,735.0,2020,1428,powiat,14,mazowieckie,113.0
+380,071427338000,żyrardowski,533.0,2020,1438,powiat,14,mazowieckie,98.0
